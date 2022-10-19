@@ -8,7 +8,7 @@
 0xdasjoy/0xdasjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Angel Jaime
+# SANJAY DAS
 
 <h2 align="center">About me</h2>
 
@@ -102,4 +102,4 @@ func GetBio() Bio {
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ----
-Credit: [AnhellO](https://github.com/AnhellO)
+
